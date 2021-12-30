@@ -1,2 +1,12 @@
-# deploy_blogPessoal
-API de um blog desenvolvido durante o bootcamp generation
+# API_blogPessoal
+
+<div align = "center"><h1>Blog Pessoal</div>
+<div><h3>• Backend Blog Pessoal </div>
+   
+  ##
+  
+<div align = "center">
+  <p><h3>Diagrama Entidade Relacionamento
+  <br><br>
+
+  
